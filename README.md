@@ -28,7 +28,7 @@ Le projet respecte une architecture en couches standard pour assurer une bonne s
 
 ### 1. Prérequis
 Avant de lancer le projet, assure-toi d'avoir installé :
-* Un JDK (Java Development Kit) version 17+
+* Un JDK (Java Development Kit) version 21
 * Maven
 
 ### 2. Variables d'environnement
