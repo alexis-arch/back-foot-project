@@ -21,4 +21,5 @@ public class StadeDTO {
     private String surface;
     private String architecte;
     private String description;
+    private String photo;
 }

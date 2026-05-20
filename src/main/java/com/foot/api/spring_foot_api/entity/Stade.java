@@ -43,6 +43,7 @@ public class Stade {
     private String proprietaire;
     private String surface;
     private String architecte;
+    private String photo;
 
     @Column(columnDefinition = "TEXT")
     private String description;
