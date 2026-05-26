@@ -113,6 +113,7 @@ public class StadeService {
         existing.setSurface(updated.getSurface());
         existing.setArchitecte(updated.getArchitecte());
         existing.setDescription(updated.getDescription());
+        existing.setPhoto(updated.getPhoto());
 
         return mapper.toStadeDTO(stadeRepository.save(existing));
     }

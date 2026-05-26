@@ -27,6 +27,7 @@ public class FootballMapper {
                 .surface(s.getSurface())
                 .architecte(s.getArchitecte())
                 .description(s.getDescription())
+                .photo(s.getPhoto())
                 .build();
     }
 
